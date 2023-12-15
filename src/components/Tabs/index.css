@@ -1,0 +1,23 @@
+.tabs-list {
+  display: flex;
+  margin: 15px;
+}
+
+.tabs-btn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.active-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
+
+.inactive-tab {
+  color: #ffffff;
+}

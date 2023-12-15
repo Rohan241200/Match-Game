@@ -1,0 +1,16 @@
+.thumbnail-lists {
+  display: flex;
+  width: 25%;
+}
+
+.thubmbnail-btn {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.thumbnail-img {
+  width: 100%;
+}
